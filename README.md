@@ -21,3 +21,4 @@ Site web personnel présentant mon parcours, mes compétences techniques et mes 
 1. Ouvrir `index.html` dans un navigateur moderne
 2. Cliquer sur les boutons de compétences pour voir les descriptions
 3. Les compteurs sont sauvegardés entre les sessions
+4. Déploiement Docker : > docker run -p 80:80 mbargaernest/examen-web-mbarga:v1
